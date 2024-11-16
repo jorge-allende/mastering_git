@@ -1,3 +1,3 @@
-## heyo, welcome to my git guide!
+## Welcome, Git!
 
-- I'm adding this from diff-branch
+- this is coming from dev-jorge
